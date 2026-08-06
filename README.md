@@ -34,12 +34,12 @@ pip install -r requirements.txt
    - renombarlo a .env
    - llenar el campo ```API_BACKEND_URL=```  con la API del backend o usar ```http://localhost:8000/api``` para usar la prueba de manera local
 
-5. Ejecutar la aplicación:
+6. Ejecutar la aplicación:
 ```powershell
 streamlit run app.py
 ```
 
-6. Abrir en el navegador: http://localhost:8501
+7. Abrir en el navegador: http://localhost:8501
 
 
 
