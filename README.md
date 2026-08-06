@@ -41,6 +41,7 @@ streamlit run app.py
 
 7. Abrir en el navegador: http://localhost:8501
 
+<img width="1325" height="2644" alt="screencapture-localhost-8501-2026-08-05-21_59_41" src="https://github.com/user-attachments/assets/27d217fe-f9a4-4050-a140-de378f378e69" />
 
 
 ## Estructura
