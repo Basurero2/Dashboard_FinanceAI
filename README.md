@@ -30,6 +30,10 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 pip install -r requirements.txt
 ```
 
+5. actualizar archivo **.env.exmaple**
+   - renombarlo a .env
+   - llenar el campo ```API_BACKEND_URL=```  con la API del backend o usar ```http://localhost:8000/api``` para usar la prueba de manera local
+
 5. Ejecutar la aplicación:
 ```powershell
 streamlit run app.py
